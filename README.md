@@ -12,6 +12,7 @@ When I'm not coding you can find me running around Edinburgh.
   [![Linkedin Badge](https://img.shields.io/badge/-dalehornidge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dale-hornidge/)](https://www.linkedin.com/in/dale-hornidge/)
 </div>
 <br>
+
 ### What I always play with
 <p> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
@@ -39,6 +40,7 @@ When I'm not coding you can find me running around Edinburgh.
 </p>
 
 <br>
+
 ### What I'm working on
 <p>
 <h2>Overcome - The heartbreak and breakup app</h2>
