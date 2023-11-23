@@ -4,7 +4,7 @@
 I'm a fullstack developer, indie hacker and founder of Overcome App. 
 </p>
 <p align="center"> 
-When I'm not coding you can find me running around Edinburgh.
+When I'm not coding you can find me running around the streets of Edinburgh.
 </p>
 
 <div align="center">
