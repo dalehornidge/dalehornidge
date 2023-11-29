@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Dale Hornidge</h1>
 
 <p align="center">
-I'm a fullstack developer, indie hacker and founder of Overcome App. 
+I'm a freelance fullstack developer, indie hacker and founder of Overcome App. 
 </p>
 <p align="center"> 
 When I'm not coding you can find me running around the streets of Edinburgh.
